@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A manifesto of the Commissioners of Scotland: delivered in to the Honourable Houses of Parliament the 24. of May, 1645. Published by authority.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92584</idno><idno type="EEBO-CITATION">99860885</idno>
+  <idno type="VID">113012</idno>
+  <idno type="EEBO-PROQUEST">2248541637</idno>
+  
+            <idno type="STC">Wing S1292</idno>
+            <idno type="STC">Thomason E286_22</idno>
+            <idno type="STC">ESTC R200081</idno>
+            <idno type="PROQUEST">99860885</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860885e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92584)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113012)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 47:E286[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A manifesto of the Commissioners of Scotland: delivered in to the Honourable Houses of Parliament the 24. of May, 1645. Published by authority.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field for Ralph Smith,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>Iune 4. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Politics and government --  1625-1649. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113012:1"/>
+            <p>A MANIFESTO OF THE COMMISSIONERS OF SCOTLAND: Delivered in to the Honourable Houses of <hi>Parliament</hi> the 24. of <hi>May,</hi> 1645.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Published by Authority.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON: Printed by <hi>John Field</hi> for <hi>Ralph Smith,</hi> Iune 4. 1645.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:113012:2"/>
+            <pb n="1" facs="tcp:113012:2"/>
+            <head>The PREFACE.</head>
+            <p>
+               <hi>CHristian Reader,</hi> If thou be a lover of the Cause of God, and of thy Country, in perusing this paper presented to the Honorable Houses of <hi>Parliament</hi> by the Commissioners of the <hi>Parliament</hi> of <hi>Scotland;</hi> I hope thou shalt receive satisfaction against any aspersions that the Emissaries of Satan, and the disturbers of our peace have vented against the sincerity, candour and in<g ref="char:EOLhyphen"/>tegrity of the proceedings of that Army in the North: What God hath joyned, let no man separate: Take notice that Iealousies breed discontent; A chaste Wife hath an uncomfortable life with a jealous Husband; Satan is a busie Bishop, and he wants not his Emissaries (even like Angels of light, but hollow-hearted within) to divide Brethren. My wishes to the God of <hi>Peace</hi> and <hi>Truth</hi> is, That he would purge our Councels, Armies, Camps, City and Country of all <hi>Achans, Ahitophels, Ha<g ref="char:EOLhyphen"/>mans, Tobia's, Sanballats,</hi> and such vermin; and then he will go out with our Armies: and that there were none amongst us that make a Trade of this unnaturall War, nor none amongst us that study to whisper and make Divisions betwixt the two Kingdoms, nor read a Letter of some particular Errour of some particular person in that
+<pb n="2" facs="tcp:113012:3"/> Army with a multiplying-Glasse, and so divulge it in City and Country, yea and it may be never complained on in the place, where (if true) might have had justice there. Let not us prove unthankfull to God nor them, for the good they have done: Let us not have needlesse fears, to suspect any evil they will or may do, till there be just cause: and if any, without just cause, have a needlesse suspition, and vent it to make Divisions, and dishonor the true God, let it be to that man according to his faith. Let us consider their condition, and both think and speak the best; for if the godliest and best modelled Army in Christendom were eve<g ref="char:EOLhyphen"/>ry six moneths put to one moneths pay in money, and five upon Billet, I beleeve there would be as much clamour there, as there is now amongst them: And remember him who said, <hi>A Kingdom divided cannot stand.</hi> And let not the <hi>Britains</hi> now be in the condition that <hi>Caesar</hi> found them in, who gave them this Character, <hi>Dum singuli pugnant omnes de vincuntur:</hi> But let both Nations joyn hearts and hands together, <hi>Pro aris &amp; focis,</hi> against the Enemies of both. God will be seen in the Mount, and they that study nothing so much, as to sow Divisions and hatred amongst Brethren (for so we are) <hi>Let them be divided in Iacob, and scattered in Israel;</hi> and let all the lovers of God and the Truth say <hi>AMEN.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="manifesto">
+            <pb n="3" facs="tcp:113012:3"/>
+            <opener>
+               <dateline>
+                  <hi>From the Scots Commissioners in</hi> London, <date>
+                     <hi>May</hi> 24. 1645.</date>
+               </dateline>
+            </opener>
+            <p>HAving seen an Order of the House of Commons, desiring an Ac<g ref="char:EOLhyphen"/>compt of what hath passed at the Committee of both Kingdoms, concerning the Advance of the Scottish Army Southward: After the perusall of the Letters, and Intelligence sent to, and received from the Scottish Army, we thought it a necessary duty for us to represent these particulars to the Honourable Houses of Parliament, for the better sta<g ref="char:EOLhyphen"/>ting of this businesse, and preventing all misunderstandings.</p>
+            <p>That such Orders of both or either House concerning the Scottish Ar<g ref="char:EOLhyphen"/>my, as have been Communicated to us, cannot come within this Accompt.</p>
+            <p>That such as have been Communicated to us, have received particular Answers, with which these are to be compared.</p>
+            <p>That the Scottish Army, out of their zeal to the common Cause, and the Safety, Peace and security of this Kingdom, notwithstanding the large promises and offers made unto them, and great threatnings of the Ene<g ref="char:EOLhyphen"/>my, and the low condition of Affairs here at that time, left their own ha<g ref="char:EOLhyphen"/>bitations, which they possessed in quietnesse, and in the sharp storms of a Winter season, came into this Kingdom, to meet with a strong and po<g ref="char:EOLhyphen"/>tent Army, who was poss<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssed of all the Garrisons, strengths, and Towns in that Country; in opposing whereof, they continued in the fields night and day, with much wants, and without cover, skirmishing and fighting with the Enemy for divers moneths, and afterwards pursued him to <hi>York,</hi> where by Gods blessing with the Assistance of the Parliaments for<g ref="char:EOLhyphen"/>ces, Prince <hi>Ruperts</hi> Army, with the remainder of <hi>Newcastles,</hi> were wholly Reduced and brought to ruine.</p>
+            <p>That after the Reducing of <hi>York</hi> the Scots Army was willing and rea<g ref="char:EOLhyphen"/>dy to march South or North, as should be found most for the Advantage of the Publique; and at the desire of the Commissioners of both Houses, marched North-ward.</p>
+            <p>That having, by Gods blessing, after a difficult Siege by storm Re<g ref="char:EOLhyphen"/>duced <hi>Newcastle,</hi> they sent some of their forces to block up <hi>Carlile,</hi> and were necessitated to send others into Scotland, for opposing the Barba<g ref="char:EOLhyphen"/>rous Irish Rebels, assisted with some of our unnaturall Countrymen, all occasioned by, and for our engaging in this Kingdom.</p>
+            <p>That being constrained all the Winter to live upon Quarter, being so far in Arrear of their Pay, and receiving so little, and so rarely in Mo<g ref="char:EOLhyphen"/>ney (a good part of the Moneths Pay promised after the Battel of <hi>Long-Marston,</hi>
+               <pb n="4" facs="tcp:113012:4"/> not being paid to this hour) it could not be imagined they could be in a condition to march, without one Moneths Pay at least, some Clothes and Ammunition.</p>
+            <p>That though this Moneths Pay was promised the fourth of <hi>Ianuary,</hi> yet it was not shipped from hence for neer three months after about the end of <hi>March,</hi> and about a fortnight after that, received at the Town of <hi>Newcastle</hi> in the month of <hi>April,</hi> and in this intervall of three mo<g ref="char:EOLhyphen"/>neths nothing paid them, notwithstanding an Ordinance be past for as<g ref="char:EOLhyphen"/>certaining the constant pay monethly.</p>
+            <p>That in the interim they testified their willingnesse, in sending parties to <hi>Scarborough</hi> for taking in of that Town; towards <hi>Pontefract</hi> upon the Alarmes given by <hi>Langdale,</hi> and afterwards by sending 2000. Com<g ref="char:EOLhyphen"/>manded Foot, and 1500. horse under Command of Lieutenant Generall <hi>L<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sly,</hi> who marched in ten dayes, without taking one daies rest 140. miles for assisting Sir <hi>William Brereton,</hi> and was so forward therein, that they prevented the desire of the Committees of both Kingdoms here, as may appear by their two severall Letters, both dated <hi>March</hi> 17.</p>
+            <p>Within two dayes after the receipt of the first Money, Armes and Am<g ref="char:EOLhyphen"/>munition (not staying upon the receipt of the remainder thereof, which arrived not there till the 12. of this instant) the Generall gave Orders for drawing all the Forces in <hi>Northumberland</hi> toward <hi>Newcastle,</hi> and Bishoprick of <hi>Durham.</hi>
+            </p>
+            <p>That in the mean while, by the instigation of some il-affected persons, seconded by Letters from <hi>Musgrave</hi> and others in <hi>Carlile</hi> (the Copies whereof have been shewed to the Committee here) an Insurrection was made in <hi>Westmerland</hi> and <hi>Cumberland</hi> against the Scots, the which could not, but interrupt for some time their Proceeding.</p>
+            <p>That the distemper being with all possible diligence and moderation composed, they were forced for liberating the Country of Free-quarter, to give the third part of the months pay to maintain their for<g ref="char:EOLhyphen"/>ces about <hi>Carlile.</hi> Orders were issued for the whole Army to meet at <hi>Fer<g ref="char:EOLhyphen"/>ribrigs</hi> the 26. of <hi>April:</hi> And timous notice given to my Lord <hi>Fairfax</hi> and the Committee at <hi>Yorke</hi> to cause furnish victuall and provisions at <hi>Rippon;</hi> and before 200. li. worth of provisions were furnished the whole Army was advanced to <hi>Rippon,</hi> notwithstanding the great dis<g ref="char:EOLhyphen"/>couragement they had from the disaffection of the Country people be<g ref="char:EOLhyphen"/>hinde them.</p>
+            <p>That having no mony to buy provisions, &amp; Free-quarter being denied to them by the Country there; having also received divers Advertisements, that it was the enemies resolution to apply their greatest strength North<g ref="char:EOLhyphen"/>ward;
+<pb n="5" facs="tcp:113012:4"/> and not knowing what assistance they might expect from the Parliaments forces, they dispatched a Message hither for resolution in these particulars, and upon the eighth of this instant, we delivered a Pa<g ref="char:EOLhyphen"/>per to the Committee of both Kingdoms; for that effect to be presented to the Honourable Houses of Parliament.</p>
+            <p>That the Lord Generall receiving upon the 12. of this instant a Letter from both houses (for it came no sooner to his hands) desiring his ad<g ref="char:EOLhyphen"/>vance Southward, upon the 13. his Lordship and the generall Officers met at <hi>Knaresborough</hi> with the English Commissioners, and there made offer to march Southward within 24. hours: They undertaking to furnish the Army with eight or ten dayes provisions, and some Draught, for Ar<g ref="char:EOLhyphen"/>tillery and Ammunition, which was absolutely necessary for them, being much weaker in horse then the Enemy, in whose power it would be to cut off all provisions from them; and by their Letters of the 14. sent to us they assure us of their full resolution to march Southward upon some grounds of hope, given them by Letters from <hi>York</hi> concerning the fur<g ref="char:EOLhyphen"/>nishing these provisions and Carriages, of which it appears since they were disappointed.</p>
+            <p>That the Orders of both Houses for the Countreys affording them free Billet, passed upon the 10. of <hi>May,</hi> without any answer to the rest of their desires, and was sent away upon the 11. of the instant.</p>
+            <p>That concerning the assistance to be sent to them, the Committee of both Kingdoms here having received Intelligence of the Kings march<g ref="char:EOLhyphen"/>ing from <hi>Oxford</hi> to <hi>Worcester,</hi> and advertisement of his designe to make the North the seat of the War this Summer, did fall upon the considera<g ref="char:EOLhyphen"/>tion, what forces were necessary to be sent Northward for prosecution of the enemy; In which debate we continued from the eight of this in<g ref="char:EOLhyphen"/>stant, to the 13. without coming to any determination. And therefore could give no assurance to the Army before that time.</p>
+            <p>By reasoning, and voicing, we urged the equall and active prosecution of the Kings Army by the forces of both Kingdoms on every hand, as the readiest means (by striking thereat as the root of our evils) to put a speedy end to the War.</p>
+            <p>And shewing the sensible advantages the King had by protracting the War, and the great danger to both Kingdoms by reason of the intolle<g ref="char:EOLhyphen"/>rable burthens that did lie upon the people, and in many other respects. And therefore did advise to leave the blocking up of <hi>Oxford</hi> to some Brigade of the Army joyned with the Forces of the Garrisons, and what force could be obtained from the City of <hi>London,</hi> which we conceived sufficient for that work, while the Armies of both Kingdoms might not
+<pb n="6" facs="tcp:113012:5"/> hinder the increase of the enemies forces, but by Gods blessing drive them to some corner, or by fighting bring them to to ruine.</p>
+            <p>After two or three dayes debate a Letter was sent from the Committee to the Earl of <hi>Leven,</hi> giving him notice, that the Enemy was marched toward <hi>Worcester;</hi> and that Major General <hi>Brown</hi> or Lieutenant Gen. <hi>Cromwell</hi> with Forces from hence was marching after them attending their motions, and desiring his advance Southward: When the Generall received the Letter, at the same time there came to him another from Sir <hi>Will. Brereton,</hi> shewing that the K<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng w<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s coming towards his qu<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rters, and desiring him to come to <hi>Cheshire:</hi> And wit<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in one hour another from my Lord <hi>Fairfax</hi> giving notice of the Kings marching towards <hi>Ne<g ref="char:EOLhyphen"/>warke,</hi> where he was to be within two dayes, and desiring him to ad<g ref="char:EOLhyphen"/>vance that way: Whereupon b<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing uncerta<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n what resolu<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion to take he went to <hi>York,</hi> and agreed with my Lord <hi>Fairfax</hi> upon a Rendezvous for his Lordships forces, and these under Command of Lieut. Generall <hi>Lesly,</hi> as also for a Rendezvous for the <hi>Derbishire</hi> and o<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her forces.</p>
+            <p>It being written to the Earl of <hi>Leven,</hi> that the Forces with Lieute<g ref="char:EOLhyphen"/>nant Gen. <hi>Cromwell,</hi> and Major Generall <hi>Brown</hi> were upon their march af<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er the King, and attending his motions; In all our debates we did take it for granted, that these forces were to be sent Northward: But upon our shewing, that we conceived for divers reasons, it would not be for the good of the service that Lieut. Generall <hi>Cromwell</hi> should command these forces, who were to correspond with the Scottish Army; and both to joyne if there should be a n<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cessary occasion; and that in many re<g ref="char:EOLhyphen"/>spects it were more expedien<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that Sir <hi>Thomas Fairfax</hi> should command them, with whom the Scotish Army had held good correspondence for<g ref="char:EOLhyphen"/>merly, and under whose command all the Northern Forces would have joyned willingly and cheerfully. It was put to the Question, and resol<g ref="char:EOLhyphen"/>ved by the Committee of both Houses by the Plurality of one Vote, and we all dissenting, That Sir <hi>Thomas Fairfax</hi> should stay in the West, and so not command these forces in<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the North. And afterward it was resolved by them, that onely 2000. Horse and 500. Dragoones should be sent to the Scotish Army under the command of Colonell <hi>Ver<g ref="char:EOLhyphen"/>muiden:</hi> And that the remainder of the Forces with Major Gen. <hi>Brown</hi> and Lieutenant General <hi>Cromwell</hi> should return to <hi>Bletchington</hi> &amp; those parts far contrary to our intention and earnest desire. Vpon the 13. that ninght a Letter was drawn to the Earl of <hi>Leven,</hi> acquainting him with this resolu<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, and desiring his advance to <hi>Darbishire,</hi> but the Letter not being signed till the next day, it could not be sent by the Post and there<g ref="char:EOLhyphen"/>fore was delayed till the 14. at night.</p>
+            <pb n="7" facs="tcp:113012:5"/>
+            <p>This Letter coming to the Earl of <hi>Leven,</hi> upon Saturday last the 17. late at night, he called together the Generall Officers, and being the first Advertisement he had to come to Darbyshire he returned the Answer of the 18. presented to the Houses. At the same time he had. Advertise<g ref="char:EOLhyphen"/>ment from Sir <hi>William Brereton</hi> and others, that upon Tuesday the 14. the Enemy was about <hi>Bridgnorth;</hi> and upon Thursday about <hi>Newport,</hi> 15. m<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>les d<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stant from <hi>Namptwitch:</hi> and Sir <hi>William Brereton</hi> exprest in h<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Letter, of the 17. to the Committee of both Kingdoms here, wherein he also sheweth, that he had sent the same Intelligence to the Earl of <hi>Leven,</hi> which upon very good reasons (as we conceive) made him alter his resolution of marching direct South: For before the Scotch Army could Advance the length of <hi>Derbyshire,</hi> the Kings Army might march from <hi>Newport</hi> to the midst of Lancashire, and so have left the Scotch Army upon his Rear, and holding the Advantage of four or five dayes match (being strong in Horse) might quickly raise the Siege at <hi>Carlile,</hi> get all the dis<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffected in the North to joyn with him, cut off the Regiment of Foot now coming from <hi>Scotland,</hi> and disturb all the South of that Kingdom, as by severall intercepted Letters of the late Earl of <hi>Montr<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ss<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> doth appear to be the Enemies design, to which no experien<g ref="char:EOLhyphen"/>ced souldier would ever consent; and we believe, no other being upon the place, could in reason have advised them to do, though they may have other thoughts here at a distance, where matters are not represent<g ref="char:EOLhyphen"/>ed to them with all the circumstance: And therefore by the Treaty be<g ref="char:EOLhyphen"/>tween the Kingdoms, it was agreed that that Army should be ordered and di<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ected by a Committee of both Kingdoms upon the place.</p>
+            <p>It would be considered also, that Sir <hi>William Brereton,</hi> once resolved as may appear by his Letter to the Committee of both Kingdoms here, to put all his Foot into Garrisons, and to detain, not only his own Horse, but the 1000. Horse belonging to my Lord <hi>Fairfax,</hi> for the security of the Garrisons of this Association And he also proposeth, that he may have the <hi>Stafford</hi> and <hi>Derbyshire</hi>
+               <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se to joyn with him.</p>
+            <p>The Committee of <hi>Derby</hi> hath written a Letter to this Committee, that all the Forces they can spare, are imployed for defence of <hi>Notting<g ref="char:EOLhyphen"/>ham,</hi> and the Neighbouring Garrisons. And the Committee of <hi>Lincoln,</hi> who is to send no Assistance, unlesse the <hi>Newark</hi> Forces joyn with the King, writes that Col: <hi>Fleetwoods</hi> Regiment being called away by Order from Sir <hi>Thomas Fairfax;</hi> they are disabled to send any Assistance to the Scotish Army. All which being made known to the Earl of <hi>Leven,</hi> (as we understand by private Letters to some of our number) hearing also that no Army was to come from the South, did apprehend that the
+<pb n="8" facs="tcp:113012:6"/> party of 2500. Horse and Dragoons might be hindered from conjunction with them, by the interposition of the Enemy, who together with the <hi>Newark</hi> Horse, was reported to be about 6000. strong, he was further confirmed in his resolution.</p>
+            <p>And when all circumstances shall be duely pondered, we are confident that it will be found, the Scottish Army did lye more conveniently in order to the Assistance of both Lancash<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re and Yorkshire, then in any o<g ref="char:EOLhyphen"/>ther place whereunto (the Premisses considered) they could have ti<g ref="char:EOLhyphen"/>mously Advanced; for if the King come into Lancashire, there is no way by which they can march with Ordnance, but by <hi>Skipton,</hi> the way Prince <hi>Rupert</hi> came the last year to <hi>York:</hi> And if they should have Ad<g ref="char:EOLhyphen"/>vanced further, it is true, they had been more ready to defend Yorkshire, but the King being so far advanced North-ward, they must have returned back to go by the way of <hi>Skipton,</hi> in case the King should fall into Lan<g ref="char:EOLhyphen"/>cashire, which is most probable to be his design. And we hope it will be far from the thoughts of any in the Honourable Houses of Parliament to apprehend the former stay, to proceed from any unwillingnesse to Advance the Publique service; especially when they consider what dili<g ref="char:EOLhyphen"/>gence is used by that Army to inform themselves truly by what way the Enemy bends his course; and so soon as they understand it, will with all cheerfulnesse and speed march to oppose him.</p>
+            <p>We desire also it may be considered, that after severall Orders sent to Lieutenant Generall <hi>Cromwell,</hi> and Major Generall <hi>Brown,</hi> for dispatch<g ref="char:EOLhyphen"/>ing to the Scottish Army that party of 2000. Horse, and 500. Dragoons, in case the Enemy marched North-ward: This Answer was returned, that they understood not, whither by the Kings marching North-ward, the Committee meant the Kings marching to <hi>Chester,</hi> since it was not di<g ref="char:EOLhyphen"/>rect North, but North-West; during the time of this deliberation, and the party attending their money before their march, the King hath Advanced neer <hi>Chester,</hi> and we know not yet how far that party hath Advanced Northward.</p>
+            <p>Whereas it is by some objected, that a part of the 30000. pound sent to the Army, was sent to <hi>Scotland,</hi> it is a mistake, for there was no part of that sum sent to <hi>Scotland,</hi> neither from hence nor from the Army, for it was wholly imployed for the use of the Army, and 9000. pound there<g ref="char:EOLhyphen"/>of was sent to the forces before <hi>Carlile,</hi> the Country having denied them of all manner of Provisions without ready money: But as to the remain<g ref="char:EOLhyphen"/>ing ten thousand pound, granted toward the paiment of the Arreres of the Army, brought in by the Earl of <hi>Calender</hi> (to supply the want of mo<g ref="char:EOLhyphen"/>ney here) we were content to accept of Bils of Exchange for 5000. pound
+<pb n="9" facs="tcp:113012:6"/> to be paid at <hi>Edenburgh</hi> to the Treasurer of the Army, who paid the same to the Earl of <hi>Calender;</hi> divers Regiments whereof were then employed in <hi>Scotland</hi> against the Rebels, and which was the first money they re<g ref="char:EOLhyphen"/>ceived from the Parliament of <hi>England,</hi> after 7. or 8. moneths service performed by them in this Kingdom: The remainder of the 10000. pound, was paid part by Bills of exchange at <hi>Newcastle,</hi> and part in mo<g ref="char:EOLhyphen"/>ney sent thither. And if this course had not been taken, the common souldiers had been frustrate thereof a Moneth after it was promised.</p>
+            <p>And as the Honourable Houses of Parliament are pleased to be at the pains to see an Accompt of what was done concerning the march of the Army; wherein we hope upon full information from the Letters, they will be satisfied: So do we earnestly entreat them to consider what is done for their maintenance, That whilest this Army in the South is paid in ready money every fortnight, and so the Country eased, and their affections gained by paying what they take from them; The Ar<g ref="char:EOLhyphen"/>my in the North is not paid once in five or six Moneths. And al<g ref="char:EOLhyphen"/>though quarter be allowed to the souldiers on billet; yet they cannot subsist or be content without some money, nor can quarters without mo<g ref="char:EOLhyphen"/>ney give satisfaction to the Officers; and the taking of free quarter doth overburden and disaffect the Country, where ever the Army travels, make the Country become enemies rather then friends, necessitates a re<g ref="char:EOLhyphen"/>misnesse in Discipline against the souldiers, and disables them from that service which otherwise might justly be expected from them.</p>
+            <p>It is therefore our earnest desire, that the Honourable Houses of Par<g ref="char:EOLhyphen"/>liament would in their wisdom take speciall care how the means ap<g ref="char:EOLhyphen"/>pointed for entertainment of that Army by the late Ordinance which is not as yet so much as Assessed in the City of <hi>London,</hi> and the severall Countries may become effectuall for procuring money to them. And that no suggestion of our Common Enemies, nor industry of such as would raise and foment Iealousie, betwixt the two Kingdoms, may so far prevail, as to misconster the actions, and faithfull endeavours of that Ar<g ref="char:EOLhyphen"/>my, discourage them in their undertakings, or which may any wayes breed a misunderstanding betwxit the two Kingdoms, or lessen that A<g ref="char:EOLhyphen"/>mity and Unity which under God is the greatest strength of both, as the infringement thereof, and our division would be the greatest rejoycing and advantage of our Enemy.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>May,</hi> 24. 1645.</date>
+               </dateline>
+               <signed>
+                  <hi>By Command of the Commissioners for the Kingdom of</hi> Scotland. IOHN CHEESLY.</signed>
+            </closer>
+            <postscript>
+               <pb n="10" facs="tcp:113012:7"/>
+               <p>HAving by many severall intelligences, which are again confirmed by a <hi>Letter</hi> from Sir <hi>William Brereton,</hi> of the <hi>19.</hi> May, received certain notice that the Kings design is, after relief of <hi>Chester</hi> to go into <hi>Lancashire,</hi> where, by the accession of Papists &amp; malignants (which abound in those parts) he may increase his strength till he grow to a numerous Army, and is from thence to send a f<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ying Army of Horse and Dragoones to break into <hi>Scotland,</hi> regain all the Northern parts, and so return into the Associated Counties, we cannot be so far wanting to the trust reposed in us, and to the care we have of the safety of these Kingdoms, as not to renew our most earnest desires that the Army under the Command of Sir <hi>Thomas Fairfax,</hi> whereunto all the Parli<g ref="char:EOLhyphen"/>aments Armies are reduced, and vvho vvere designed to be the Fi<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld Army, by the Authority of the Honourable Houses of Parliament be forthwith or<g ref="char:EOLhyphen"/>dained to march in prosecution of the Kings army, and not lye down before a strength, and beleaguer a Town (which may be effected with a small party) when the Enemy with a strong Army is marching in the field, and give them opportunity to grow to such a strength as may make them master of the field, run over spoile and subdue all the Countries where they come, and destroy the Kingdom, and with the losse of this Summers service, exhaust the treasure of the Kingdom; spin out these unnaturall Wars to a great length, which can neither destroy the enemy, nor settle the Kingd<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m Whereas we conceive the only probable mans to put a speedy and happy end to these unnaturall Wars, is, that the Armyes and forces of the Parliaments of both Kingdoms in the South and North may by their joynt Forces and Councels speedily and actively pursue the enemy, and force them either to fight or flie, or move his Majesty (by granting the lawfull and necessary desires of both Kingdoms) to establish Religion with a well grounded Peace; and upon the other parts to suffer the whole strength and violence of the enemy to fall upon any one of the two Kingdoms, or their Armies, is the ready way, not only to destroy both; but also to suffer the work and cause of the Lord, which is more precious then both, to perish in our hands.</p>
+               <closer>
+                  <dateline>
+                     <date>May 24. 1645.</date>
+                  </dateline>
+                  <signed>By the Command of the Commissioners for The Parliament of Scotland. JOHN CHEESLY.</signed>
+               </closer>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
